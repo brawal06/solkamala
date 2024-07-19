@@ -1,0 +1,13 @@
+{
+  "name": "Kamalatoe",
+  "symbol": "KMLTE",
+  "uri": "https://github.com/brawal06/solkamala/blob/main/token-metadata/metadata.json",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "8nvcudqxnj5aSKJeNk4sWFmECcNNeV6WTgvcRsXdbeXj",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
